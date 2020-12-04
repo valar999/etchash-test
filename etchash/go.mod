@@ -1,4 +1,4 @@
-module github.com/etclabscore/go-etchash
+module github.com/valar999/etchash
 
 go 1.15
 
