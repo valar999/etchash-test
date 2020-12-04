@@ -1,4 +1,4 @@
-module github.com/valar999/etchash
+module github.com/valar999/etchash-test/etchash
 
 go 1.15
 
